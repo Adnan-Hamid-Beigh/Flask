@@ -2,11 +2,11 @@
 Flask development
 I am learning flask
 
-#First create venv by:
+# First create venv by:
     python -m venv venv
-#Then activate venv using:
+# Then activate venv using:
     venv/Scripts/activate
-#Deactivate using:
+# Deactivate using:
     Deactivate
 
 set FLASK_APP=app.py
